@@ -14,7 +14,7 @@ int main(void)
 	y = temp;
 	
 	
-	printf(x is now%i\n", x);
-	printf(y is now%i\n", y);
+	printf("x is now %i\n", x);
+	printf("y is now %i\n", y);
 	
 }
